@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoffeeOrder</string>
+    <string name="toppings">Toppings</string>
+
+    <!--Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="Thank_you">Thank you!</string>
+</resources>
